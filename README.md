@@ -1,5 +1,7 @@
 # ThingSpeak IoT – Ultrasonic Distance Visualization using ESP32
 
+<img src="https://github.com/DanielRajChristeen/ThingSpeak_IoT_Distance_with_Ultrasoic/blob/27f16d978b1c904a016721f7400877db45c42198/images/circuit_demo.jpeg">
+
 This project demonstrates a complete IoT data pipeline using an **ESP32 Dev Kit V1**, **HC-SR04 Ultrasonic Sensor**, and **ThingSpeak Cloud** for real-time distance visualization.  
 Two graphs are included:
 - ThingSpeak's built-in live chart  
